@@ -1,2 +1,4 @@
-Meeow.
-![](https://files.catbox.moe/6e03vh.png)
+
+<p align="center">
+<img src="https://files.catbox.moe/42gv4p.png"/>
+</p>
